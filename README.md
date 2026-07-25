@@ -7,7 +7,7 @@ I’m a security engineer focused on detection and response, Linux and Kubernete
 - ⚙️ I work with Kubernetes, RHEL, Ubuntu, Splunk, Qualys, Wiz, Python, PowerShell, and CI/CD tooling
 - 🧠 I’m currently building threat-informed detections and auditable AI-assisted investigation workflows
 - 📚 Security+ certified and currently preparing for CySA+ with additional training in AI agents, AI prompting, AI-enabled support workflows, cloud, cybersecurity analysis, and data analysis
-- 📫 Contact: elliotteden.dev@proton.me
+- 📫 Contact: elliotteden@proton.me
 - 😄 Pronouns: He/Him
 - 🎭 Before cybersecurity, I trained and worked as a professional performer—including being paid to jump off buildings
 
