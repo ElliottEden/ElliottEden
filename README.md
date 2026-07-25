@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ElliottEden
-- 👀 I’m interested in cybersecurity, game development, coding, and creating quality of life bots
-- 🌱 I’m currently learning advanced cybersecurity and penetration testing techniques and enhancing my coding skills in Python and JavaScript
-- 💞️ I’m looking to collaborate on web development, bot integrations, and security-focused projects
-- 📫 How to reach me: elliotteden.dev@proton.me or through GitHub
+# Hi, I’m Elliott Eden 👋
+
+I’m a security engineer focused on detection and response, Linux and Kubernetes security, vulnerability investigation, and security automation.
+
+- 🔍 I investigate security findings across containerized, network, application, and Linux environments
+- 🛡️ I’m interested in detection engineering, threat intelligence, incident response, and AI security
+- ⚙️ I work with Kubernetes, RHEL, Ubuntu, Splunk, Qualys, Wiz, Python, PowerShell, and CI/CD tooling
+- 🧠 I’m currently building threat-informed detections and auditable AI-assisted investigation workflows
+- 📚 Security+ certified and currently preparing for CySA+ with additional training in AI agents, AI prompting, AI-enabled support workflows, cloud, cybersecurity analysis, and data analysis
+- 📫 Contact: elliotteden.dev@proton.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to jump off buildings for a living
+- 🎭 Before cybersecurity, I trained and worked as a professional performer—including being paid to jump off buildings
 
 <!---
 ElliottEden/ElliottEden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
